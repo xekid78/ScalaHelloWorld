@@ -1,0 +1,2 @@
+# ScalaHelloWorld
+HelloWorldと表示
