@@ -2,7 +2,7 @@
 HelloWorldと表示
 
 ## 処理
-画面にHelloWorldと表示
+画面に`Hello World`と表示
 
 ## コード
 ```
