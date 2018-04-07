@@ -6,7 +6,11 @@ HelloWorldと表示
 
 ## コード
 ```
-println("Hello World")
+object Hello {
+    def main(args: Array[String]): Unit = {
+        println("Hello World")
+    }
+}
 ```
 
 ## 出力結果  
